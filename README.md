@@ -1,4 +1,4 @@
- <h1 align="center">Hey 👋 I'm Kim Hero, a game developer</h1>
+<h1 align="center">Hey 👋 I'm Kim Hero, a game developer</h1>
 
 ###
 
@@ -45,13 +45,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hero00001 /Hero00001 /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hero00001 /Hero00001 /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hero00001 /Hero00001 /output/pacman-contribution-graph.svg">
-</picture>
 
 ###
