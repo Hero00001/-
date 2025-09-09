@@ -1,4 +1,4 @@
-# - <h1 align="center">Hey 👋 I'm Kim Hero, a game developer</h1>
+ <h1 align="center">Hey 👋 I'm Kim Hero, a game developer</h1>
 
 ###
 
